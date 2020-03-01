@@ -8,6 +8,6 @@
 
 import Foundation
 
-class ___VARIABLE_productName___Service {
+class ___FILEBASENAME___ {
     
 }
